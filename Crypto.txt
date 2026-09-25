@@ -1,0 +1,11 @@
+DOMAIN-SUFFIX,aicoin.com
+DOMAIN-SUFFIX,bitfinex.com
+DOMAIN-SUFFIX,binance.com
+DOMAIN-SUFFIX,isafepal.com
+DOMAIN-SUFFIX,neverless.com
+DOMAIN-SUFFIX,tigerfintech.com
+DOMAIN-SUFFIX,tigrdw.com
+DOMAIN-SUFFIX,itigerup.com
+DOMAIN-SUFFIX,skytigris.cn
+DOMAIN-SUFFIX,laohu8.com
+DOMAIN-SUFFIX,iotaskyt.com
