@@ -33,3 +33,9 @@ DOMAIN-SUFFIX,bitfinex.com
 # gate.com
 DOMAIN-SUFFIX,gate.com
 DOMAIN-SUFFIX,gate.io
+
+# explorer
+DOMAIN-SUFFIX,bitpay.com
+DOMAIN-SUFFIX,blockpher.com
+DOMAIN-SUFFIX,blockonomics.co
+DOMAIN-SUFFIX,blockchain.com
