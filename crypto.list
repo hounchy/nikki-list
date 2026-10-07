@@ -28,7 +28,7 @@ DOMAIN-SUFFIX,bybit.com
 DOMAIN-SUFFIX,aicoin.com
 
 # bitfinex.com
-DOMAIN-SUFFIX,bitfinex.com
+#DOMAIN-SUFFIX,bitfinex.com
 
 # gate.com
 DOMAIN-SUFFIX,gate.com
